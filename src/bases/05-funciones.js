@@ -20,7 +20,7 @@ console.log( saludar4() );
 
 const getUser = () => ({
         uid: 'ABC123',
-        username: 'El_Papi1502'
+        username: 'FanyMtz'
 });
 
 
@@ -33,7 +33,7 @@ const getUsuarioActivo = ( nombre ) =>({
     username: nombre
 })
 
-const usuarioActivo = getUsuarioActivo('Fernando');
+const usuarioActivo = getUsuarioActivo('Fany');
 console.log( usuarioActivo );
 
 

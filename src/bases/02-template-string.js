@@ -1,8 +1,8 @@
 
 
 
-const nombre   = 'Fernando';
-const apellido = 'Herrera';
+const nombre   = 'Estefania';
+const apellido = 'Martinez';
 
 
 // const nombreCompleto = nombre + ' ' + apellido;

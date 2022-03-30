@@ -6,9 +6,9 @@ const persona = {
     edad: 45,
     direccion: {
         ciudad: 'New York',
-        zip: 55321321,
-        lat: 14.3232,
-        lng: 34.9233321
+        zip: 74921,
+        lat: 13.3232,
+        lng: 11.6673321
     }
 };
 

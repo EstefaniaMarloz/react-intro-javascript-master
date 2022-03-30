@@ -22,8 +22,8 @@ const useContext = ({ clave, nombre, edad, rango = 'Capitán' }) => {
         nombreClave: clave,
         anios: edad,
         latlng: {
-            lat: 14.1232,
-            lng: -12.3232
+            lat: 13.1232,
+            lng: -12.3132
         }
     }
 
